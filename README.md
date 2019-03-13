@@ -1,6 +1,6 @@
 ## Synopsis
 
-MSExcelToMongoConnector - imports **Excel** (xlsx) spreadsheets to **MongoDB**
+MSExcelToMongoConnector - imports **Excel** (xlsx) spreadsheets to **MongoDB** 
 
 ## Prerequisites
 To run this tool, you need .Net FW 4.5+
